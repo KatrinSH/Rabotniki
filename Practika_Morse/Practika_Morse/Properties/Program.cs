@@ -26,6 +26,11 @@ namespace Practika_Morse
             time_unit = time_unit.Substring(0, time_unit.Length - 2);
             Console.WriteLine("Time-unit code");
             Console.WriteLine(time_unit);
+
+
+
+
+
         }
     }
 }
