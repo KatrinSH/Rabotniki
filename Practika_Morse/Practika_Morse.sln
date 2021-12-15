@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practika_Morse", "Practika_Morse\Practika_Morse.csproj", "{83A78882-D7B4-46E2-8EE9-5BA2B75AA333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A78882-D7B4-46E2-8EE9-5BA2B75AA333}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{83A78882-D7B4-46E2-8EE9-5BA2B75AA333}.Debug|anycpu.Build.0 = Debug|anycpu
+		{83A78882-D7B4-46E2-8EE9-5BA2B75AA333}.Release|anycpu.ActiveCfg = Release|anycpu
+		{83A78882-D7B4-46E2-8EE9-5BA2B75AA333}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E0697B0-EF3E-4BEF-994B-D631CCD48C0C}
+	EndGlobalSection
+EndGlobal
